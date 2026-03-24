@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm ReTulik7 👋
+
+🎯 Cyber Security Student (2nd Year)
+🛡️ Focus on Blue Team & Incident Response
+📊 Interested in Traffic Analysis / Threat Hunting / CTF
+
+---
+
+## 🔧 Skills
+
+* Network Traffic Analysis (Wireshark)
+* Log Analysis & Incident Response
+* Basic Reverse Engineering (CTF Misc)
+* Python Scripting
+
+---
+
+## 📂 Current Projects
+
+* 🔍 Traffic Analysis Lab (building...)
+* 🛡️ Incident Response Cases (building...)
+* 📡 CTF Writeups (Misc & Forensics)
+
+---
+
+## 🚀 Goals
+
+* Become a Security Engineer (Blue Team)
+* Build real-world incident response skills
+* Participate in CTF competitions
+
+---
+
+## 📫 Contact
+
+* Email: retulik7@gmail.com
