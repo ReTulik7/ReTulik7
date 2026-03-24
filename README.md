@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ReTulik7/ReTulik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 # Hi, I'm ReTulik7 👋
 
 🎯 Cyber Security Student (2nd Year)
-🛡️ Focus on Blue Team & Incident Response
-📊 Interested in Traffic Analysis / Threat Hunting / CTF
+🛡️ Focus on Blue Team | Incident Response
+📊 Interested in Traffic Analysis | Threat Hunting | CTFer
 
 ---
 
 ## 🔧 Skills
 
 * Network Traffic Analysis (Wireshark)
-* Log Analysis & Incident Response
+* Log Analysis | Incident Response
 * Basic Reverse Engineering (CTF Misc)
 * Python Scripting
 
